@@ -4,7 +4,7 @@ import re
 
 class LMX_bitstring():
     def __init__(self, device=0, max_length=150):
-        self.generator = init_model(device)
+        self.generator = init_model(device=device)
         self.max_length = max_length
 
     def __call__(self, parents, n_children=1):

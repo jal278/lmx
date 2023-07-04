@@ -6,3 +6,4 @@ fire
 transformers
 torch
 torchvision
+xformers

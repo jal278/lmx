@@ -86,6 +86,9 @@ class ExperimentRunner:
 
 def main():
     fire.Fire(ExperimentRunner)
+    # - debugging in IDE
+    #experiment_runner = ExperimentRunner()
+    #experiment_runner.one_max()
 
 if __name__ == "__main__":
     main()
