@@ -1,0 +1,8 @@
+numpy
+matplotlib
+seaborn
+tqdm
+fire
+transformers
+torch
+torchvision
