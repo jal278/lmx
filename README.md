@@ -23,11 +23,11 @@ All of these notebooks and scripts use the huggingface transformers API, so the 
 
 Please let us know if you have any questions. Enjoy!
 
-_sample results of QD Sentiment optimization_
+_sample results of QD sentiment optimization_
 
 ![alt text](https://github.com/jal278/lmx/blob/main/images/sentiment.png)
 
-_sample results of Symbolic Regression_
+_sample results of symbolic regression_
 
 ![alt text](https://github.com/jal278/lmx/blob/main/images/symbolic_regression.png)
 
