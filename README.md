@@ -2,8 +2,8 @@
 
 This is the official code repo for the paper ["Language Model Crossover: Variation through Few-shot Prompting"](https://arxiv.org/abs/2302.12170) (https://arxiv.org/abs/2302.12170).
 
-Language Model Crossover (LMX) is a simple but powerful method of generating solution variants using Large Language Models (LLMs).
-Parent solutions (represented as text) are simply concatenated and fed into the LLM, which naturally produces variations, which are parsed as children.
+Language Model Crossover (LMX) is a simple yet effective method of generating solution variations using Large Language Models (LLMs).
+Parent solutions (represented as text) are concatenated and fed into the LLM, which naturally produces variations, which are parsed as children.
 
 ![alt text](https://github.com/jal278/lmx/blob/main/images/lmx_examples.png)
 
