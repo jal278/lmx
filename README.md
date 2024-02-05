@@ -5,7 +5,7 @@ This is the official code repo for the paper ["Language Model Crossover: Variati
 Language Model Crossover (LMX) is a simple yet effective method of generating solution variations using Large Language Models (LLMs).
 Parent solutions (represented as text) are concatenated and fed into the LLM, which naturally produces variations, which are parsed as children.
 
-![alt text](https://github.com/jal278/lmx/blob/main/images/lmx_examples.png)
+![alt text](https://github.com/jal278/lmx/blob/main/images/updated_lmx_examples.png)
 
 This repository contains notebooks and scripts for running LMX in the domains from the paper.
 From these examples we hope you will see how easy it is to apply LMX to new domains :)
