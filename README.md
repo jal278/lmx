@@ -34,3 +34,5 @@ _sample results of symbolic regression_
 _sample results of prompt optimization for image generation_
 
 ![alt text](https://github.com/jal278/lmx/blob/main/images/image_generation.png)
+
+![alt text](https://github.com/jal278/lmx/blob/main/images/colors_and_prompts.png)
